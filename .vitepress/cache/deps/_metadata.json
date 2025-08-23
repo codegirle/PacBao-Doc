@@ -1,43 +1,43 @@
 {
-  "hash": "1bc96e45",
-  "configHash": "09a8574d",
-  "lockfileHash": "2a88337f",
-  "browserHash": "953cba68",
+  "hash": "4d11d108",
+  "configHash": "3ef57bad",
+  "lockfileHash": "5055731c",
+  "browserHash": "177cc94e",
   "optimized": {
     "vue": {
       "src": "../../../node_modules/.pnpm/vue@3.5.18/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "561677c9",
+      "fileHash": "8b09bfe4",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../node_modules/.pnpm/@vue+devtools-api@8.0.0/node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "45ae79b4",
+      "fileHash": "e936a0c6",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../node_modules/.pnpm/@vueuse+core@13.6.0_vue@3.5.18/node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "6d61e8c4",
+      "fileHash": "3ebc17e1",
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
       "src": "../../../node_modules/.pnpm/@vueuse+integrations@13.6.0_focus-trap@7.6.5_vue@3.5.18/node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "2bc78111",
+      "fileHash": "197488f4",
       "needsInterop": false
     },
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../node_modules/.pnpm/mark.js@8.11.1/node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "39dca83d",
+      "fileHash": "f940e14f",
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../node_modules/.pnpm/minisearch@7.1.2/node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
-      "fileHash": "a8ef4692",
+      "fileHash": "f86f8c88",
       "needsInterop": false
     }
   },

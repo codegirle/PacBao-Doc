@@ -11,13 +11,6 @@ export default defineConfig({
         server: {
             host: '0.0.0.0',
         },
-        css: {
-            preprocessorOptions: {
-                scss: {
-                    api: 'modern-compiler',
-                },
-            },
-        },
         plugins: [],
     },
     locales: {
@@ -167,10 +160,10 @@ export default defineConfig({
                     //     },
                     //     link: ' https://www.xiaohongshu.com/user/profile/5fb74015000000000101cf9f?xsec_token=YBKk6t_WPLRgqaTv7FNXhV6n3ALcrS_55mBOeHa99r_Sw=&xsec_source=app_share&xhsshare=CopyLink&appuid=5fb74015000000000101cf9f&apptime=1748939765&share_id=0f13c11e6e6d4bc18ed60586644749d7',
                     // },
-                    {
-                        icon: 'github',
-                        link: 'https://github.com/Sjj1024/PakePlus',
-                    },
+                    // {
+                    //     icon: 'github',
+                    //     link: 'https://github.com/Sjj1024/PakePlus',
+                    // },
                 ],
                 // footer
                 footer: {
@@ -369,10 +362,10 @@ export default defineConfig({
                     //     },
                     //     link: ' https://www.xiaohongshu.com/user/profile/5fb74015000000000101cf9f?xsec_token=YBKk6t_WPLRgqaTv7FNXhV6n3ALcrS_55mBOeHa99r_Sw=&xsec_source=app_share&xhsshare=CopyLink&appuid=5fb74015000000000101cf9f&apptime=1748939765&share_id=0f13c11e6e6d4bc18ed60586644749d7',
                     // },
-                    {
-                        icon: 'github',
-                        link: 'https://github.com/Sjj1024/PakePlus',
-                    },
+                    // {
+                    //     icon: 'github',
+                    //     link: 'https://github.com/Sjj1024/PakePlus',
+                    // },
                 ],
                 // footer
                 footer: {
