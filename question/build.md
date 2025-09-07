@@ -21,12 +21,13 @@ The most common causes for this error are:
 1. The quickest solution is to delete your PakePlus repository, then reopen PakePlus and re-enter your Token to restart the process (this will delete your previously created projects).
 
 Steps to delete your PakePlus repository:
-- Open your PakePlus repository
-- Click Settings and scroll to the bottom
-- Click "Delete this repository"
-- Click "I want to delete this repository"
-- Click "I have read and understand these effects"
-- Enter your full PakePlus repository name
-- Click "Delete this repository"
+
+-   Open your PakePlus repository
+-   Click Settings and scroll to the bottom
+-   Click "Delete this repository"
+-   Click "I want to delete this repository"
+-   Click "I have read and understand these effects"
+-   Enter your full PakePlus repository name
+-   Click "Delete this repository"
 
 2. If the issue persists, contact me on WeChat: lanxingme, or join our support group to ask other users for help.
