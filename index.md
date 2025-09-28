@@ -3,23 +3,22 @@
 layout: home
 
 hero:
-    name: 'PakePlus'
-    text: 'Turn Web into Desktop/Mobile Apps'
-    tagline: Package Web/Vue/React projects into Desktop/Mobile Apps in minutes
+    name: PacBao
+    text: A set of code running on Desktop&Mobile
+    tagline: Use front-end technology and tools to build Desktop and Android/iOS App.
     image:
         src: ./pplogo.png
         alt: PakePlus
     actions:
         - theme: brand
-          text: Download
-          link: /download/
+          text: Guide
+          link: /guide/
         - theme: brand
           text: WebBeta
           link: https://pakeplus.netlify.app/
         - theme: brand
-          text: Guide
-          link: /guide/
-
+          text: Download
+          link: /download/s
 features:
     - title: Open Source
       details: PakePlus is open source and you can find its source code on GitHub

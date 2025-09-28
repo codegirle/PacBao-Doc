@@ -2,22 +2,22 @@
 layout: home
 
 hero:
-    name: 'PakePlus'
-    text: '何必是网站，秒变桌面应用和手机应用'
-    tagline: 打包网页/Vue/React项目为桌面/手机应用只需几分钟
+    name: PacBao
+    text: 一套代码多端运行
+    tagline: 使用前端技术和工具，构建 Mac/Windows/Linux 和 Android/iOS 应用。
     image:
         src: ../pplogo.png
-        alt: PakePlus
+        alt: PacBao
     actions:
         - theme: brand
-          text: 下载地址
-          link: /zh/download/
+          text: 使用指南
+          link: /zh/guide/
         - theme: brand
           text: WebBeta
           link: https://pakeplus.netlify.app/
         - theme: brand
-          text: 使用指南
-          link: /zh/guide/
+          text: 下载地址
+          link: /zh/download/
 
 features:
     - title: 开源免费
